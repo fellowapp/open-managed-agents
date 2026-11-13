@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@open-managed-agents/oma-models": "workspace:*",
-    "hono": "4.12.12"
+    "hono": "4.13.16"
   },
   "devDependencies": {
     "vitest": "^5.0.5"
