@@ -36,7 +36,7 @@
     "@open-managed-agents/sql-client": "workspace:*",
     "@open-managed-agents/vault-forward": "workspace:*",
     "@open-managed-agents/vaults-store": "workspace:*",
-    "hono": "^4.7.0",
+    "hono": "^4.13.16",
     "nanoid": "^5.1.0"
   }
 }

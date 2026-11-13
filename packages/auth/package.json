@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@open-managed-agents/inference-proxy": "workspace:*",
-    "hono": "^4.7.0"
+    "hono": "^4.13.16"
   },
   "devDependencies": {
     "vitest": "^5.0.5"
